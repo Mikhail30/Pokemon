@@ -31,7 +31,7 @@ public class Main {
             brock.attackOtherTrainer(ash);
             brock.choosePokemon("Squirtle");
             ash.attackOtherTrainer(brock);
-
+            brock.healPokemon(squirtle);
             brock.healPokemon(squirtle);
             brock.healPokemon(charmander);
         }
