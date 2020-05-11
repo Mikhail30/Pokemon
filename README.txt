@@ -6,7 +6,7 @@ Lets start epic Pokemon-battles between two best amigos Ash and Brock.
 
 ## Getting Started
 
-1.Install and open IDE on your computer (intellej idea/eclipse/ etc.), pull .java files from this repository to your installed IDE
+1.Install and open IDE on your computer (intellij idea/eclipse/ etc.), pull .java files from this repository to your installed IDE
  , add JUnit library and start the game.
 
 OR
@@ -21,7 +21,7 @@ OR
 
 5. to compile downloaded files, write a command: javac -d bin -cp company .src\com\company\Main.java. This command create in your bin folder the same name files, but with the different extension .class
 
-6.to run these files change your directry to C:\Javalab\Pokemon-master\bin and write a command: java -cp "." Main (to transfer arguments to the program functions just write them in this command with a space between. There are thre types of argument - Object, String and int) 
+6.to run these files change your directory to C:\Javalab\Pokemon-master\bin and write a command: java -cp "." Main (to transfer arguments to the program functions just write them in this command with a space between. There are thre types of argument - Object, String and int)
 
 
 ### Game Process
