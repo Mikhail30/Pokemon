@@ -11,7 +11,7 @@ public class TrainerTestClass {
     @Test
     public void trainersShouldHaveDifferentNames() {
 
-        Assert.assertNotSame("Attention! You are can't create trainers with the same names"
+        Assert.assertNotSame("Attention! You are can't create trainers with the same name"
                 , ash.getName(), brock.getName());
 
     }
