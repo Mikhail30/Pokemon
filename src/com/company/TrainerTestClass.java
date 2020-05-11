@@ -13,6 +13,7 @@ public class TrainerTestClass {
 
         Assert.assertNotSame("Attention! You are can't create trainers with the same names"
                 , ash.getName(), brock.getName());
+
     }
 }
 
