@@ -6,7 +6,8 @@ Lets start epic Pokemon-battles between two best amigos Ash and Brock.
 
 ## Getting Started
 
-1.Install and open IDE on your computer (intellej idea/eclipse/ etc.), pull .java files from this repository to your installed IDE and start the game.
+1.Install and open IDE on your computer (intellej idea/eclipse/ etc.), pull .java files from this repository to your installed IDE
+ , add JUnit library and start the game.
 
 OR
 
